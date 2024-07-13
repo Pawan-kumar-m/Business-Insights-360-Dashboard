@@ -4,9 +4,7 @@
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
-
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNjJhYTYxZjEtZTFhYy00MTE1LWEyYzQtYTk0YWRiYWYxYTBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMGMwNWJkYzktNmI4MC00N2U5LWFjYTMtYmZlYzNkMDc2YjUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)
 
 ## Tech stacks
 
@@ -37,11 +35,6 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
 - And more 😅
-
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
 
 ## Business related terms
 
@@ -185,7 +178,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Support Page
 
-<img src="https://github.com/Pawan-kumar-m/Business-Insights-360-Dashboard/blob/main/Images/Support%20page.jpg" class="center">
+<img src="https://github.com/Pawan-kumar-m/Business-Insights-360-Dashboard/blob/main/Images/Support%20Page.jpg" class="center">
 
 ## Finance View
 
@@ -201,11 +194,11 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Supply chain View
 
-<img src="https://github.com/Pawan-kumar-m/Business-Insights-360-Dashboard/blob/main/Images/Supply%20chain%20View.jpg" class="center">
+<img src="https://github.com/Pawan-kumar-m/Business-Insights-360-Dashboard/blob/main/Images/Supply%20Chain%20View.jpg" class="center">
 
 ## Executive View
 
-<img src="https://github.com/Pawan-kumar-m/Business-Insights-360-Dashboard/blob/main/Images/Executive%20Dashboard.jpg" class="center">
+<img src="https://github.com/Pawan-kumar-m/Business-Insights-360-Dashboard/blob/main/Images/Executive%20View.jpg" class="center">
 
 ## Info Page
 
